@@ -12,4 +12,4 @@ docker-compose up -d --build
 ```
 
 
-DO NOT NOT FORGET TO SETUP YOUR .env file in both project
+DO NOT NOT FORGET TO SETUP YOUR .env file for both project (api, react)
