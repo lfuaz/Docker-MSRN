@@ -1,0 +1,6 @@
+mysql
+node_modules
+
+*.env
+*.pem
+*.pub
