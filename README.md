@@ -10,3 +10,6 @@ Use [docker](https://docs.docker.com/get-docker/) to run this stack.
 ```bash
 docker-compose up -d --build
 ```
+
+
+DO NOT NOT FORGET TO SETUP YOUR .env file in both project
